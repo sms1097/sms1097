@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sms1097
+- 👋 Hi, I’m Sean Smith.
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently working on an interpretable ML project and contributing to LaaS for the Linux Foundation.
-- 📫 How to reach me: smsmith714@gmail.com
+- 📫 How to reach me: smsmith714@gmail.com or Linkedin.
 
 <!---
 sms1097/sms1097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
