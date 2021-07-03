@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sean Smith.
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently working on an interpretable ML project and contributing to LaaS for the Linux Foundation.
+- 👀 I’m interested in Network Science, Neural Generation, and Machine Learning in general. 
 - 📫 How to reach me: smsmith714@gmail.com or Linkedin.
 
 <!---
