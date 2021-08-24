@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean Smith.
-- 👀 I’m interested in Network Science, Neural Generation, and Machine Learning in general. 
+- 👀 I’m foused on Machine Learning and Statistics.
 - 📫 How to reach me: smsmith714@gmail.com or Linkedin.
 
 <!---
